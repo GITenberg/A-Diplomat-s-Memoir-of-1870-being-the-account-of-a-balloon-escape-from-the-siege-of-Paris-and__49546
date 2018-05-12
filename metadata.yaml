@@ -1,15 +1,21 @@
 _repo: A-Diplomat-s-Memoir-of-1870-being-the-account-of-a-balloon-escape-from-the-siege-of-Paris-and__49546
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Reitlinger, Henry
     gutenberg_agent_id: '45392'
     url: http://www.gutenberg.org/2009/agents/45392
+covers:
+- cover_type: archival
+  image_path: 49546-h/images/cover.jpg
 creator:
   author:
     agent_name: Reitlinger, Frederic
     gutenberg_agent_id: '45391'
     url: http://www.gutenberg.org/2009/agents/45391
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49546#A-Diplomat-s-Memoir-of-1870-being-the-account-of-a-balloon-escape-from-the-siege-of-Paris-and_
 gutenberg_issued: '2015-07-29'
 gutenberg_type: Text
 identifiers:
